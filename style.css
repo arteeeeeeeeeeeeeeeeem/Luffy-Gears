@@ -1,0 +1,126 @@
+.uiui {
+    width: 500px;
+    height: 200px;
+    font-family:Verdana;
+    font-size:200px;
+ }
+  header p {
+   text-align: center;  
+  }
+  body {background-image:url(https://m.media-amazon.com/images/M/MV5BMjgwNzFjZGYtNTRhNC00YzA0LTliNmYtNTUyYjZiMWM1MDEwXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg);
+   background-repeat:repeat ;
+   background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   }
+  .uiu {font-size:70px;
+  font-family:fantasy;
+  text-align: center; }
+  .ui {font-size:45px;
+  font-family:fantasy; 
+  text-align: center;
+  color:#00fc15}
+  .umi {border-radius:5px;
+  border: 9px solid #00fc15;
+  padding:5px;
+  margin:5px;
+
+  background-color: #00fc15; }
+  
+ 
+ .un {     text-align: center; 
+   font-size: 50px;
+   color: rgb(250, 64, 194);
+   font-family: fantasy;
+
+
+ }
+ .us {border-radius:5px;
+  border: 9px solid #f8334e;
+  padding:5px;
+  margin:5px;
+  border-color:#fb2d49;
+  background-color:#f8334e;}
+  
+.bbb
+{font-family:fantasy;
+    font-size:30px;
+    color:rgb(6, 27, 97);
+   }
+    
+   .uiubi {font-family:cursive;
+    font-size:42px;
+    color:rgb(19, 35, 85);
+    }
+    .uiubio {font-family:fantasy;
+    font-size:37px;
+    color:rgb(250, 65, 74);
+    }
+    .ussmm {text-align: center
+;
+color:#7dfc06;
+font-size: 40px;
+font-family: sans-serif; }
+
+  
+  nav a{
+    color:black;
+    text-decoration:none;
+    border-radius:10px;
+    padding:3px;
+    margin:15px ;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(248, 130, 228);
+    text-align: center;
+  }
+  .ps {text-align: center;
+  font-size:30px ;}
+  nav{background-color: rgb(248, 130, 228);
+    border: 4px solid rgb(248, 130, 228);}
+    .ps1 {text-align: center;}
+    .uiubj {font-family:fantasy;
+    font-size:37px;
+    color:rgb(27, 107, 117);
+    }
+    .hol {border-radius:5px;
+  border: 9px solid #fc0000;
+  padding:5px;
+  margin:5px;
+  background-color:#ff0000;}
+  .uiubjc{font-family:fantasy;
+    font-size:37px;
+    color:rgba(230, 3, 3, 0.836);
+    }
+    .hol2 {border-radius:5px;
+  border: 9px solid #ccc2fc;
+  padding:5px;
+  margin:5px;
+
+  background-color:#ffffff;}
+  .uiubjco{font-family:fantasy;
+    font-size:37px;
+    color:rgb(129, 4, 179);
+     }
+     .um3{width: 235px;
+     height:170px ;}
+     .baba{ 
+      
+      font-size:45px ;
+      color:rgb(255, 94, 1);
+     text-align: center;
+  font-family:fantasy ;
+
+     }
+     footer{ background-image:url(https://pm1.aminoapps.com/6538/61f7a1ce02e11d6f7bf15d4f9e79267279da88db_00.jpg) ;
+        background-repeat:repeat ;
+   background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+     }
