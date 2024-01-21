@@ -49,15 +49,18 @@
 {font-family:fantasy;
     font-size:30px;
     color:rgb(6, 27, 97);
+    
    }
     
    .uiubi {font-family:cursive;
     font-size:42px;
     color:rgb(19, 35, 85);
+      background-color: rgba(0, 0, 0, 0.3);
     }
     .uiubio {font-family:fantasy;
     font-size:37px;
     color:rgb(250, 65, 74);
+    background-color: rgba(0, 0, 0, 0.5);
     }
     .ussmm {text-align: center
 ;
@@ -84,6 +87,7 @@ font-family: sans-serif; }
     .uiubj {font-family:fantasy;
     font-size:37px;
     color:rgb(27, 107, 117);
+     background-color: rgba(0, 0, 0, 0.3);
     }
     .hol {border-radius:5px;
   border: 9px solid #fc0000;
@@ -93,6 +97,7 @@ font-family: sans-serif; }
   .uiubjc{font-family:fantasy;
     font-size:37px;
     color:rgba(230, 3, 3, 0.836);
+     background-color: rgba(0, 0, 0, 0.5);
     }
     .hol2 {border-radius:5px;
   border: 9px solid #ccc2fc;
@@ -103,6 +108,7 @@ font-family: sans-serif; }
   .uiubjco{font-family:fantasy;
     font-size:37px;
     color:rgb(129, 4, 179);
+     background-color: rgba(0, 0, 0, 0.5);
      }
      .um3{width: 235px;
      height:170px ;}
